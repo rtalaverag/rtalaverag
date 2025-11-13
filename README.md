@@ -4,7 +4,6 @@
 [![UCM Badge](https://img.shields.io/badge/UCM-tGIS-orange)](https://www.ucm.es/tgis)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/rtalaveragarcia)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://www.rtalaverag.com/cv/)
-[![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/rtalaverag)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rtalaverag.rtalaverag)
 
 ---
